@@ -48,3 +48,9 @@
 # newClass = Person(ism,familya,yosh)
 # newClass.yoshTekshir()
 # ==================================================================================
+
+
+
+
+
+# dgfhkgh khuy khb
